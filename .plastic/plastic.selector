@@ -1,0 +1,4 @@
+repository "Lighthouse Horror Game@GGProd1@cloud"
+  path "/"
+    br "/main"
+    co "/main"
